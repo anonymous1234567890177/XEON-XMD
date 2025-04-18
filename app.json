@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Ensure your session Id starts with the word CLOUD-AI~$",
       "required": true,
-      "value": ""
+      "value": "POPKID~Ea0ykQTT#XGlAo5rh8GaV2sTsDV9L8WfF5WeIF9-NTJ1d46THoHk"
     },
     "MODE": {
       "description": "Set to 'public' or 'private' to define bot mode",
@@ -20,12 +20,12 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": true,
-      "value": "Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ"
+      "value": "ZUKA"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "254759000340"
+      "value": "263789544743"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
@@ -45,12 +45,12 @@
     "ALWAYS_ONLINE": {
       "description": "Keep bot always online (true/false)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_REACT": {
       "description": "Enable bot to auto-react to messages (true/false)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "ANTI_DELETE": {
       "description": "Enable anti-delete feature (true/false)",
